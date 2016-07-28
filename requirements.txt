@@ -1,4 +1,4 @@
-alabaster==0.7.7
+alabaster==0.7.9
 Babel==2.2.0
 coverage==4.0.3
 decorator==4.0.9
