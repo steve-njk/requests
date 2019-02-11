@@ -13,7 +13,7 @@ Pygments==2.3.1
 PySocks==1.6.8
 pytest==4.2.0
 pytest-cov==2.6.1
-pytest-httpbin==0.3.0
+pytest-httpbin==1.0.0
 pytest-mock==1.10.1
 pytz==2018.9
 six==1.12.0
