@@ -45,7 +45,7 @@ packages = [
 ]
 
 requires = []
-test_requirements = ['pytest>=2.8.0', 'pytest-httpbin==0.3.0', 'pytest-cov']
+test_requirements = ['pytest>=2.8.0', 'pytest-httpbin==1.0.0', 'pytest-cov']
 
 with open('requests/__init__.py', 'r') as fd:
     version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]',
