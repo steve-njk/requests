@@ -14,7 +14,7 @@ PySocks==1.6.8
 pytest==4.4.1
 pytest-cov==2.6.1
 pytest-httpbin==1.0.0
-pytest-mock==1.10.3
+pytest-mock==1.10.4
 pytz==2019.1
 six==1.12.0
 snowballstemmer==1.2.1
