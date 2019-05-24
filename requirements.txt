@@ -9,7 +9,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 py==1.8.0
-Pygments==2.4.0
+Pygments==2.4.1
 PySocks==1.7.0
 pytest==4.5.0
 pytest-cov==2.7.1
