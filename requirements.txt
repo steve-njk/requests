@@ -18,7 +18,7 @@ pytest-mock==1.10.4
 pytz==2019.1
 six==1.12.0
 snowballstemmer==1.2.1
-Sphinx==2.0.1
+Sphinx==2.1.0
 sphinx-rtd-theme==0.4.3
 Werkzeug==0.15.4
 wheel==0.33.4
