@@ -12,7 +12,7 @@ py==1.8.0
 Pygments==2.4.2
 PySocks==1.7.1
 pytest==5.2.0
-pytest-cov==2.7.1
+pytest-cov==2.8.0
 pytest-httpbin==1.0.0
 pytest-mock==1.11.0
 pytz==2019.2
