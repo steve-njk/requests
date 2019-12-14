@@ -1,6 +1,6 @@
 alabaster==0.7.12
 Babel==2.7.0
-coverage==4.5.4
+coverage==5.0
 decorator==4.4.1
 docutils==0.15.2
 Flask==1.1.1
