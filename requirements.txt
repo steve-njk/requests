@@ -11,7 +11,7 @@ MarkupSafe==1.1.1
 py==1.9.0
 Pygments==2.6.1
 PySocks==1.7.1
-pytest==5.4.3
+pytest==6.0.0
 pytest-cov==2.10.0
 pytest-httpbin==1.0.0
 pytest-mock==3.2.0
