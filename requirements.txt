@@ -21,4 +21,4 @@ snowballstemmer==2.0.0
 Sphinx==3.2.0
 sphinx-rtd-theme==0.5.0
 Werkzeug==1.0.1
-wheel==0.34.2
+wheel==0.35.0
