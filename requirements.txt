@@ -16,7 +16,7 @@ pytest-cov==2.2.1
 pytest-httpbin==0.2.0
 pytest-mock==0.11.0
 pytz==2015.7
-six==1.14.0
+six==1.15.0
 snowballstemmer==1.2.1
 Sphinx==1.3.5
 sphinx-rtd-theme==0.1.9
